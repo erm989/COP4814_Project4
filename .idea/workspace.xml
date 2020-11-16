@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3558eb7d-3354-4b18-acba-eda21b4c1dea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="ec136b39-5060-4b8d-9893-c3cd83d69892" />
+  <component name="ProjectId" id="1S1W8J4GQOxPG9u9HiFzN5vHBaK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AQI_WebApp_Flask/templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AQI_WebApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../Proj3/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3558eb7d-3354-4b18-acba-eda21b4c1dea" name="Default Changelist" comment="" />
+      <created>1570731421849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570731421849</updated>
+      <workItem from="1570731423129" duration="5531000" />
+      <workItem from="1571162187962" duration="4284000" />
+      <workItem from="1571173760459" duration="10176000" />
+      <workItem from="1571595893505" duration="1812000" />
+      <workItem from="1575237791698" duration="589000" />
+      <workItem from="1576101053689" duration="23000" />
+      <workItem from="1605201397194" duration="2114000" />
+      <workItem from="1605203596037" duration="97000" />
+      <workItem from="1605549255494" duration="3354000" />
+      <workItem from="1605552679755" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="270" y="132" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1605201819338">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="270" y="132" key="#com.intellij.ide.macro.MacrosDialog/0.23.1440.797@0.23.1440.797" timestamp="1605201819338" />
+    <state x="313" y="220" key="FileChooserDialogImpl" timestamp="1605203409702">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="313" y="220" key="FileChooserDialogImpl/0.23.1440.797@0.23.1440.797" timestamp="1605203409702" />
+    <state width="1003" height="190" key="GridCell.Tab.0.bottom" timestamp="1605552673147">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="880" height="190" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1605550337452" />
+    <state width="1003" height="190" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1605552673147" />
+    <state width="1003" height="190" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1605552140342" />
+    <state width="1253" height="190" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1605551258561" />
+    <state width="1003" height="190" key="GridCell.Tab.0.center" timestamp="1605552673147">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="880" height="190" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1605550337451" />
+    <state width="1003" height="190" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1605552673147" />
+    <state width="1003" height="190" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1605552140341" />
+    <state width="1253" height="190" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1605551258561" />
+    <state width="1003" height="190" key="GridCell.Tab.0.left" timestamp="1605552673146">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="880" height="190" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1605550337451" />
+    <state width="1003" height="190" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1605552673146" />
+    <state width="1003" height="190" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1605552140340" />
+    <state width="1253" height="190" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1605551258560" />
+    <state width="1003" height="190" key="GridCell.Tab.0.right" timestamp="1605552673147">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="880" height="190" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1605550337452" />
+    <state width="1003" height="190" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1605552673147" />
+    <state width="1003" height="190" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1605552140341" />
+    <state width="1253" height="190" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1605551258561" />
+    <state x="27" y="98" key="SettingsEditor" timestamp="1605549346463">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="27" y="98" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1605549346463" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NASA_API$run.coverage" NAME="run Coverage Results" MODIFIED="1571186404687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AQI_WebApp$run.coverage" NAME="run Coverage Results" MODIFIED="1605552639447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
